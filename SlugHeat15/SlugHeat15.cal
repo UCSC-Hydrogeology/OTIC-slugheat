@@ -1,0 +1,5 @@
+1
+Water Calibration Type:
+1 = Channels offset to the FIRST point in the bottom water temperature equilibrium period
+2 = Channels offset to the LAST point in the bottom water temperature equilibrium period
+3 = Channels offset to the MEAN of all points in the bottom water temperature equilibrium period
